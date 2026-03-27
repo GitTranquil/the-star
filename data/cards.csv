@@ -1,0 +1,79 @@
+id,name,arcana,suit,number,keywords_upright,keywords_reversed,element,planet_or_sign
+0,The Fool,major,,0,new beginnings;innocence;spontaneity;free spirit;adventure,recklessness;fear;holding back;foolishness;risk,Air,Uranus
+1,The Magician,major,,1,manifestation;power;action;resourcefulness;skill,manipulation;poor planning;untapped talent;deception,Air,Mercury
+2,The High Priestess,major,,2,intuition;mystery;inner knowledge;the subconscious;patience,secrets;withdrawal;silence;lack of intuition,Water,Moon
+3,The Empress,major,,3,abundance;nurturing;fertility;nature;creativity,dependence;smothering;emptiness;creative block,Earth,Venus
+4,The Emperor,major,,4,authority;structure;stability;leadership;father figure,tyranny;rigidity;domination;inflexibility,Fire,Aries
+5,The Hierophant,major,,5,tradition;conformity;education;spiritual wisdom;institution,rebellion;subversiveness;new approaches;freedom,Earth,Taurus
+6,The Lovers,major,,6,love;harmony;partnership;choices;alignment,disharmony;imbalance;misalignment;indecision,Air,Gemini
+7,The Chariot,major,,7,willpower;determination;victory;control;ambition,lack of direction;aggression;defeat;scattered energy,Water,Cancer
+8,Strength,major,,8,courage;patience;compassion;inner strength;influence,self-doubt;weakness;insecurity;raw emotion,Fire,Leo
+9,The Hermit,major,,9,introspection;solitude;wisdom;inner guidance;soul-searching,isolation;loneliness;withdrawal;lost,Earth,Virgo
+10,Wheel of Fortune,major,,10,change;cycles;fate;turning point;luck,bad luck;resistance to change;breaking cycles;stagnation,Fire,Jupiter
+11,Justice,major,,11,fairness;truth;accountability;law;clarity,dishonesty;unfairness;lack of accountability;bias,Air,Libra
+12,The Hanged Man,major,,12,surrender;new perspective;letting go;pause;sacrifice,stalling;resistance;indecision;needless sacrifice,Water,Neptune
+13,Death,major,,13,endings;transformation;transition;change;release,resistance to change;fear of endings;stagnation;decay,Water,Scorpio
+14,Temperance,major,,14,balance;moderation;patience;harmony;purpose,imbalance;excess;lack of harmony;misalignment,Fire,Sagittarius
+15,The Devil,major,,15,bondage;materialism;shadow self;attachment;addiction,release;breaking free;reclaiming power;detachment,Earth,Capricorn
+16,The Tower,major,,16,sudden change;upheaval;revelation;destruction;awakening,avoidance;fear of change;delayed disaster;resistance,Fire,Mars
+17,The Star,major,,17,hope;inspiration;renewal;serenity;faith,despair;disconnection;lack of faith;hopelessness,Air,Aquarius
+18,The Moon,major,,18,illusion;fear;subconscious;intuition;confusion,release of fear;clarity;truth revealed;regaining composure,Water,Pisces
+19,The Sun,major,,19,joy;success;vitality;confidence;positivity,sadness;temporary setback;lack of clarity;diminished joy,Fire,Sun
+20,Judgement,major,,20,rebirth;inner calling;reflection;reckoning;absolution,self-doubt;refusal of self-examination;stagnation;harsh judgment,Fire,Pluto
+21,The World,major,,21,completion;integration;accomplishment;wholeness;travel,incompletion;shortcuts;delays;lack of closure,Earth,Saturn
+22,Ace of Wands,minor,wands,1,inspiration;creation;new venture;potential;spark,delays;lack of motivation;hesitation;missed opportunity,Fire,
+23,Two of Wands,minor,wands,2,planning;future vision;progress;decisions;discovery,fear of unknown;lack of planning;indecision;playing it safe,Fire,Mars in Aries
+24,Three of Wands,minor,wands,3,expansion;foresight;overseas opportunities;growth;leadership,delays;obstacles;frustration;lack of foresight,Fire,Sun in Aries
+25,Four of Wands,minor,wands,4,celebration;harmony;homecoming;community;milestone,lack of harmony;transition;instability;cancelled celebration,Fire,Venus in Aries
+26,Five of Wands,minor,wands,5,conflict;competition;disagreement;tension;struggle,avoiding conflict;compromise;resolution;inner conflict,Fire,Saturn in Leo
+27,Six of Wands,minor,wands,6,victory;recognition;success;public acclaim;confidence,fall from grace;ego;lack of recognition;self-doubt,Fire,Jupiter in Leo
+28,Seven of Wands,minor,wands,7,perseverance;defense;standing ground;challenge;courage,giving up;overwhelm;yielding;exhaustion,Fire,Mars in Leo
+29,Eight of Wands,minor,wands,8,speed;action;movement;swift change;momentum,delays;frustration;stagnation;waiting;scattered energy,Fire,Mercury in Sagittarius
+30,Nine of Wands,minor,wands,9,resilience;courage;persistence;boundaries;last stand,exhaustion;paranoia;giving up;overwhelm,Fire,Moon in Sagittarius
+31,Ten of Wands,minor,wands,10,burden;responsibility;overcommitment;hard work;stress,release;delegation;breakdown;inability to delegate,Fire,Saturn in Sagittarius
+32,Page of Wands,minor,wands,11,exploration;enthusiasm;discovery;free spirit;new ideas,lack of direction;haste;immaturity;scattered energy,Fire,
+33,Knight of Wands,minor,wands,12,energy;passion;adventure;impulsiveness;action,recklessness;haste;scattered energy;delays;frustration,Fire,
+34,Queen of Wands,minor,wands,13,confidence;independence;warmth;determination;vibrancy,jealousy;selfishness;insecurity;demanding;temperamental,Fire,
+35,King of Wands,minor,wands,14,leadership;vision;entrepreneurship;honor;charisma,impulsiveness;ruthlessness;high expectations;domineering,Fire,
+36,Ace of Cups,minor,cups,1,new love;compassion;creativity;emotional fulfillment;joy,emotional loss;blocked creativity;emptiness;unrequited love,Water,
+37,Two of Cups,minor,cups,2,partnership;unity;attraction;mutual respect;connection,imbalance;broken partnership;disharmony;tension,Water,Venus in Cancer
+38,Three of Cups,minor,cups,3,celebration;friendship;community;creativity;collaboration,overindulgence;gossip;isolation;excess,Water,Mercury in Cancer
+39,Four of Cups,minor,cups,4,apathy;contemplation;dissatisfaction;meditation;reevaluation,new awareness;acceptance;moving forward;motivation,Water,Moon in Cancer
+40,Five of Cups,minor,cups,5,loss;grief;disappointment;regret;mourning,acceptance;moving on;finding peace;forgiveness,Water,Mars in Scorpio
+41,Six of Cups,minor,cups,6,nostalgia;childhood;innocence;reunion;memories,stuck in past;unrealistic;naivety;moving forward,Water,Sun in Scorpio
+42,Seven of Cups,minor,cups,7,fantasy;illusion;choices;wishful thinking;imagination,clarity;reality check;focus;alignment;determination,Water,Venus in Scorpio
+43,Eight of Cups,minor,cups,8,departure;withdrawal;seeking truth;leaving behind;journey,fear of change;stagnation;staying;avoidance,Water,Saturn in Pisces
+44,Nine of Cups,minor,cups,9,contentment;satisfaction;wish fulfillment;gratitude;luxury,dissatisfaction;greed;materialism;unfulfilled wishes,Water,Jupiter in Pisces
+45,Ten of Cups,minor,cups,10,harmony;happiness;family;emotional fulfillment;home,broken family;disharmony;misalignment;domestic trouble,Water,Mars in Pisces
+46,Page of Cups,minor,cups,11,creative opportunity;intuition;curiosity;sensitivity;new feelings,emotional immaturity;creative block;insecurity;escapism,Water,
+47,Knight of Cups,minor,cups,12,romance;charm;imagination;idealism;following the heart,moodiness;unrealistic;jealousy;disappointment,Water,
+48,Queen of Cups,minor,cups,13,compassion;calm;intuitive;nurturing;emotional security,insecurity;codependency;martyrdom;emotional manipulation,Water,
+49,King of Cups,minor,cups,14,emotional balance;diplomacy;wisdom;calm;generosity,emotional manipulation;moodiness;volatility;coldness,Water,
+50,Ace of Swords,minor,swords,1,clarity;breakthrough;new idea;truth;mental force,confusion;chaos;miscommunication;brutality,Air,
+51,Two of Swords,minor,swords,2,indecision;stalemate;avoidance;difficult choices;denial,clarity;resolution;seeing truth;making decisions,Air,Moon in Libra
+52,Three of Swords,minor,swords,3,heartbreak;grief;sorrow;painful truth;separation,healing;recovery;forgiveness;moving forward,Air,Saturn in Libra
+53,Four of Swords,minor,swords,4,rest;recovery;contemplation;solitude;restoration,restlessness;burnout;stagnation;refusal to rest,Air,Jupiter in Libra
+54,Five of Swords,minor,swords,5,conflict;defeat;winning at a cost;tension;aggression,reconciliation;forgiveness;moving on;resolution,Air,Venus in Aquarius
+55,Six of Swords,minor,swords,6,transition;moving on;healing journey;calmer waters;leaving behind,resistance to change;unfinished business;stuck;delayed healing,Air,Mercury in Aquarius
+56,Seven of Swords,minor,swords,7,deception;strategy;stealth;cunning;betrayal,coming clean;confession;conscience;rethinking approach,Air,Moon in Aquarius
+57,Eight of Swords,minor,swords,8,restriction;trapped;victim mentality;helplessness;limitation,freedom;release;new perspective;empowerment,Air,Jupiter in Gemini
+58,Nine of Swords,minor,swords,9,anxiety;worry;nightmares;fear;despair,release;recovery;hope;facing fears;reaching out,Air,Mars in Gemini
+59,Ten of Swords,minor,swords,10,painful ending;betrayal;rock bottom;loss;crisis,recovery;regeneration;rising up;worst is over,Air,Sun in Gemini
+60,Page of Swords,minor,swords,11,curiosity;new ideas;communication;vigilance;mental agility,gossip;hasty decisions;deception;all talk,Air,
+61,Knight of Swords,minor,swords,12,ambition;action;drive;fast thinking;determination,recklessness;impatience;aggression;no direction,Air,
+62,Queen of Swords,minor,swords,13,independence;clear thinking;direct communication;perceptive;sharp wit,cold-hearted;bitter;cruel;overly critical,Air,
+63,King of Swords,minor,swords,14,intellectual power;authority;truth;clear thinking;ethical,manipulative;tyrannical;abusive of power;cold,Air,
+64,Ace of Pentacles,minor,pentacles,1,opportunity;prosperity;new venture;manifestation;abundance,missed opportunity;lack of planning;scarcity;instability,Earth,
+65,Two of Pentacles,minor,pentacles,2,balance;adaptability;juggling;flexibility;time management,overwhelm;imbalance;disorganization;overcommitment,Earth,Jupiter in Capricorn
+66,Three of Pentacles,minor,pentacles,3,teamwork;collaboration;skill;craftsmanship;learning,lack of teamwork;disorganization;poor quality;conflict at work,Earth,Mars in Capricorn
+67,Four of Pentacles,minor,pentacles,4,security;conservation;control;stability;possessiveness,greed;materialism;letting go;financial insecurity,Earth,Sun in Capricorn
+68,Five of Pentacles,minor,pentacles,5,hardship;loss;isolation;worry;poverty,recovery;improvement;spiritual growth;turning a corner,Earth,Mercury in Taurus
+69,Six of Pentacles,minor,pentacles,6,generosity;charity;sharing;prosperity;giving and receiving,debt;selfishness;one-sided charity;strings attached,Earth,Moon in Taurus
+70,Seven of Pentacles,minor,pentacles,7,patience;investment;long-term view;perseverance;assessment,impatience;poor results;lack of reward;short-term thinking,Earth,Saturn in Taurus
+71,Eight of Pentacles,minor,pentacles,8,skill development;dedication;craftsmanship;mastery;hard work,perfectionism;lack of focus;no ambition;mediocrity,Earth,Sun in Virgo
+72,Nine of Pentacles,minor,pentacles,9,abundance;luxury;self-sufficiency;financial independence;discipline,overindulgence;superficiality;living beyond means;lack of discipline,Earth,Venus in Virgo
+73,Ten of Pentacles,minor,pentacles,10,wealth;inheritance;family;legacy;long-term success,financial loss;family disputes;instability;short-term focus,Earth,Mercury in Virgo
+74,Page of Pentacles,minor,pentacles,11,ambition;new opportunity;studiousness;desire to learn;practicality,lack of progress;procrastination;missed opportunity;unfocused,Earth,
+75,Knight of Pentacles,minor,pentacles,12,hard work;routine;responsibility;patience;thoroughness,boredom;stagnation;laziness;obsessive perfectionism,Earth,
+76,Queen of Pentacles,minor,pentacles,13,nurturing;practical;providing;security;abundance,work-life imbalance;smothering;neglect of self;financial insecurity,Earth,
+77,King of Pentacles,minor,pentacles,14,wealth;business;leadership;security;discipline,greed;materialism;stubbornness;financial mismanagement,Earth,

@@ -1,0 +1,46 @@
+[
+    {
+        "id": "single_card",
+        "name": "Single Card",
+        "card_count": 1,
+        "description": "A single card for quick daily guidance or a focused answer.",
+        "difficulty": "beginner",
+        "positions": [
+            {
+                "index": 0,
+                "name": "The Card",
+                "meaning": "The core message or answer",
+                "interpretation_prompt": "This single card represents the essence of your question or the energy of the moment."
+            }
+        ],
+        "layout": {"type": "single", "positions": [{"x": 0, "y": 0}]}
+    },
+    {
+        "id": "three_card",
+        "name": "Three Card Spread",
+        "card_count": 3,
+        "description": "A versatile three-card spread. Most commonly read as Past / Present / Future, but can also represent Situation / Challenge / Advice.",
+        "difficulty": "beginner",
+        "positions": [
+            {
+                "index": 0,
+                "name": "Past",
+                "meaning": "What has led to this moment — the foundation and recent history",
+                "interpretation_prompt": "This card represents the past influences shaping the current situation. What energy or events have led the querent here?"
+            },
+            {
+                "index": 1,
+                "name": "Present",
+                "meaning": "The current situation — what is happening now",
+                "interpretation_prompt": "This card represents the present moment. What is the querent experiencing right now? What energy surrounds them?"
+            },
+            {
+                "index": 2,
+                "name": "Future",
+                "meaning": "Where things are heading — the likely outcome if current energy continues",
+                "interpretation_prompt": "This card represents the future trajectory. What is likely to unfold? What should the querent be aware of?"
+            }
+        ],
+        "layout": {"type": "row", "positions": [{"x": -1, "y": 0}, {"x": 0, "y": 0}, {"x": 1, "y": 0}]}
+    }
+]
